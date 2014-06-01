@@ -7,4 +7,12 @@ Addon feature
 - rating
 - comments 
 -  easy library managing 
--  BOOKarT to sell your book  !  Show the power of a senior :D lolz,,,,!!
+-  BOOKarT to sell your book  !  Show the power of a senior :D lolz......!!
+
+
+Team members 
+
+1) Renju Koshy
+2) Nithin Prasad
+3) Kavya Valsala
+4) Akhil Nadh PC
